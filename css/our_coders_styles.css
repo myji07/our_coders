@@ -1,0 +1,59 @@
+body {
+  margin: 50px;
+  font-family: 'Special Elite', cursive;
+}
+
+hr {
+  display: inline-block;
+  background: black;
+  width: 90px;
+  height: 4px;
+}
+
+span {
+  display: block;
+  text-align: right;
+  padding-top: 175px;
+  padding-right: 15px;
+  color: #fff;
+}
+
+.first_image, .second_image, .third_image {
+  display: inline-block;
+  margin-top: 15px;
+  margin-right: 15px;
+  width: 200px;
+  height: 200px;
+}
+
+.fourth_image, .fifth_image, .sixth_image {
+  display: inline-block;
+  margin-top: 15px;
+  margin-right: 15px;
+  width: 200px;
+  height: 200px;
+}
+
+.first_image {
+  background-image: url("../views/Adriana Dillarza.jpg");
+}
+
+.second_image {
+  background-image: url("../views/Berenice Soto.jpg");
+}
+
+.third_image {
+  background-image: url("../views/Carolina Barrios.jpg");
+}
+
+.fourth_image {
+  background-image: url("../views/Daniela Castillo.jpg");
+}
+
+.fifth_image {
+  background-image: url("../views/Ivonne Reyes.jpg");
+}
+
+.sixth_image {
+  background-image: url("../views/Raquel Martinez.jpg");
+}
